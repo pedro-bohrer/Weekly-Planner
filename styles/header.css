@@ -1,0 +1,19 @@
+.cabecalho {
+    background-color: var(--cor-um);
+    height: 10vh;
+    display: flex;
+    gap: 80vw;
+    align-items: center;
+}
+.titulo {
+    margin: 0 30px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: var(--font-principal);
+}
+.cabecalho__logos {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}

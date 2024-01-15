@@ -1,0 +1,16 @@
+.rodape {
+    background-color: var(--cor-um);
+    height: 9vh;
+}
+.rodape__texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: var(--font-principal);
+}
+.red {
+    color: var(--cor-tres);
+}

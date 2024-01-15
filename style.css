@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url(styles/header.css);
+@import url(styles/principal.css);
+@import url(styles/footer.css);
+
+:root {
+    --cor-um: #FFA686;
+    --cor-dois: #4A2222;
+    --cor-tres: #B94342;
+    --cor-quatro: #653434;
+    --cor-cinco: #826A5E;
+    --cor-seis: #755B4E;
+    --cor-sete: #543C31;
+    --cor-oito: #422f26;
+    --font-principal: 'Charm', cursive;
+    --font-input: 'Archivo Black', sans-serif;
+    --cor-texto: #D2B39F;
+    --cor-texto-input: #e0d4cc;
+}
+
+

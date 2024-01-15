@@ -1,0 +1,54 @@
+.principal {
+    background-color: var(--cor-dois);
+    height: 81vh;
+    color: var(--cor-texto);
+    font-family: var(--font-principal);
+    display: grid;
+    grid-template-columns: 12% 88%;
+}
+
+.horas {
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 15px 6px;  
+}
+.horas__texto {
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 5.7px;
+
+}
+.dias__semana {
+    display: flex;
+}
+.dias__semana__texto {
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-align: center;
+    align-items: center;
+    padding: 22px 6px;  
+}
+.rosa {
+    background-color: var(--cor-quatro);
+}
+.dia__input {
+    border: solid var(--cor-sete);
+    border-width: 0 1px;
+    background-color: var(--cor-cinco);
+    height: 2.5em;
+    width: 225px;
+    color: var(--cor-texto-input);
+    font-family: var(--font-input);
+}
+input[type=text]:focus {
+    outline: none;
+    background-color: var(--cor-oito);
+  }
+  ::placeholder {
+    color: var(--cor-texto);
+  }
+.bege__escuro {
+    background-color: var(--cor-seis);
+}
